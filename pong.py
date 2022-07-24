@@ -1,4 +1,3 @@
-from tkinter import Widget
 import pygame 
 import random
 
